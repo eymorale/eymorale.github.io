@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Diving into the World of Blogging"
+---
+For some reason, I never got into the blogging phase. Never considered it, never even thought about it. However, the other day I was intrigued after discussing it with my team lead. So here I am. I can't help but feel like Julie from the movie Julie & Julia (if you haven't seen it, it's really a great movie). Anyway, she starts a blog as she cooks her way through Julia Child's famous cookbook. Not knowing whether she has any readers, she gets excited one day when someone leaves a comment on her blog. Unfortunately for her, it ends up being a comment from her mother saying that she seems to be her only reader. Regardless of whether I will have readers or not, there is something refreshing about writing down your thoughts and knowing that someone has access to them.
+
+So a little introduction. I recently graduated from Virginia Tech with a computer science degree. Now I am a Software Developer at IBM working on Apache Cordova as an iOS specialist. I am a little bit obsessed with Harry Potter (just a little bit). I also enjoy reading YA novels...as an adult. I love watching movies, basically any genre.
+
+My blog site currently isn't much, but I'm hoping to play around with different technologies and add more. I did quite a bit of research on blog sites and frameworks. I ran across Jekyll on Github Pages and that seemed to be the best option for me. So far it has been fairly easy to work with. I will most likely be posting about anything that interests me, including what I mentioned above (technology, movies, books, Harry Potter...).
