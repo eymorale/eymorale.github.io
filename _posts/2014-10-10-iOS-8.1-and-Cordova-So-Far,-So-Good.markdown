@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "iOS 8.1 and Cordova So Far, So Good"
+---
+iOS 8.1 beta 2 was released to developers this week. What does that mean? More testing! For Cordova, so far so good. There weren't many API diffs, and the differences were mostly just new methods and constants. So we are currently not seeing in breakages with 8.1.
+
+One notable change that actually happened in iOS 8, is the file system layout of the app containers. Before iOS 8, the file system looked something like this:
+    
+    file:///var/mobile/Applications/blah
+
+Now the file system looks like this:
+
+    file:///var/mobile/Containers/Data/Application/blah
+
+If you are following the best practice and using the [NSSearchPathForDirectoriesInDomains method](https://developer.apple.com/library/ios/documentation/Cocoa/Reference/Foundation/Miscellaneous/Foundation_Functions/index.html#//apple_ref/c/func/NSSearchPathForDirectoriesInDomains), then this change should have no effect. However, if you are hard-coding file and directory paths, then you will see breakages and should follow the best practice.
+
+If you do happen to run across any issues on Cordova, please file a [Jira issue](https://issues.apache.org/jira).
