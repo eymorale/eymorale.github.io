@@ -4,31 +4,38 @@ title: Resume
 permalink: /resume/
 ---
 
-[Download](https://www.dropbox.com/s/ddzdyrzzdann2g2/Resume_EdnaMorales.pdf?dl=0)
-
-# __Education__
-
-Virginia Tech, May 2014
-
-- B.S., Computer Science
-- GPA: 3.87/4.0
+[Download](https://drive.google.com/file/d/1TOEs2f2iZBcQC2S_p7jGJrLbELJmKxAb/view?usp=sharing)
 
 # __Skills__
 
-- Java 
+- Node.js/JavaScript
+- Docker
+- Kubernetes/Helm
+- Java
 - C/C++
-- Objective-C
-- JavaScript
-- Python
 - Android
 - iOS
-- Git
 
 # __Related Work Experience__
 
-__IBM__, Software Engineer, June 2013 - Present
+__IBM__, Software Engineer, June 2014 - Present
 
-- Apache Cordova iOS team
+  - __API Connect Analytics squad__
+    - Delivered integration with IBM Cloud Product Insights for system monitoring
+    - Delivered __Docker__ containerization and __Kubernetes__ deployment of analytics components for micro-service architecture: Elasticsearch, Logstash, Kibana
+    - Implemented automated unit and integration testing framework for CI/CD (__Mocha, Jenkins__)
+
+  - __MobileFirst Platform Foundation Apache Cordova__
+    - Worked with hybrid iOS apps using the Cordova framework
+    - Maintained and patched Cordova versions packaged in MobileFirst Foundation
+    - Contributed new features and bug fixes to Cordova tools, platforms and plugins (__Apache Cordova Committer__)
+    - Continuously ran Cordova tests on new iOS versions
+    - Converted MobileFirst Platform Foundation hybrid SDKs into Cordova plugins
+    
+  - __MobileFirst Platform Foundation Tools Team Lead__
+    - Planned and sized new Deliverable Stories for each sprint
+    - Delivered new features for: MFP Cordova plugins, MFP CLI, MFP Eclipse plugin, MFP migration assistance CLI
+    - Transitioned team to __squad model__ and align to new squad build pipeline (__Jenkins__)
 
 __Qualcomm__, Software Engineering Intern, May 2013 - August 2013
 
@@ -47,8 +54,15 @@ __BVU Optinet__, Network Operations Intern, May 2012 - February 2013
 	- User gives data path to update database and filters based on call type and date
 	- The average amount of calls will be calculated for every day of the week at every 15 minute interval of the day
 	- Results given in Excel graph format
+	
+# __Education__
 
-# __Class Projects__
+Virginia Tech, May 2014
+
+- B.S., Computer Science
+- GPA: 3.87/4.0
+
+# __Computer Projects__
 
 - VT Roommate Finder Android App
 	- Contributed to the __design__ of a roommate finder application that includes:
@@ -62,27 +76,15 @@ __BVU Optinet__, Network Operations Intern, May 2012 - February 2013
 		- Exchanging profiles between users via WiFi using a client-server model
 		- Compatibility rating algorithm
 
-- Parser
-	- Lexical analyzer and parser written in C++
-	- Uses recursive descent parsing that implements given inherited and synthesized attributes
-	- Evaluates logical and relational expressions
-
-- Word Ladder Solver C Program
-	- Takes in a source word and destination word (of same length)
-	- Creates a link between the two words in which adjacent words can only differ by one letter
-	- Uses a Breadth First Search to find the shortest path from source to destination
-
 # __Other Projects__
 
 - Personal blog and website
 	- Built using Jekyll
 	- Hosted on Github Pages
 
-# __Activities and Honors__
+# __Activities__
 
-- Phi Beta Kappa
-- Dean's List Fall 2010 - Spring 2014
-- Mentor for Durham Women and Math Mentoring 2014
-- Qualcomm Intern Servapalooza 2013
-- Computer Science Community Service 2013
-- Virginia Tech's The Big Event 2011 - 2013
+- Girls Who Code 2017-2018
+- IBM Extreme Blue Mentor 2017
+- IBM-NCSU Pathfinder Mentoring Program 2016
+- Durham Women and Math Mentoring 2014
